@@ -35,15 +35,6 @@ body {
     background-color: #ffffff
 }
 
-.imgbanner {
-    width: 250px;
-    height: 40px;
-    padding: 10px 0 0 0;
-    position: absolute;
-    margin-top: 150px;
-    z-index: 1;
-}
-
 #footer {
     border-style: solid none none none;
     border-color: #4aaaa5;
